@@ -8,8 +8,8 @@ meus conhecimento de Programação em Python 🐍, para migrar para Área de Hac
           
 - 💻 Atualmente estou aprendendo Hacker ;
 - 🐍 Estou estudando programação Python ;
-- 👯 Com meus conhecimentos vou  colaborar com projetos de defesa cibernética ;
-- 💪 Vou ajudar a tornar a web mais segura com meus conhecimentos ; 
+- 👯 Com meus estudos vou  colaborar com projetos de defesa cibernética ;
+- 💪 Vou ajudar a tornar a web mais segura usando de meus conhecimento ; 
 - 👾 Jogador oficial de CTFs -  Capture The Flag ; 
 
 
